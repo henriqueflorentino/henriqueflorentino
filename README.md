@@ -53,15 +53,7 @@ testing...
 
 ---
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Codando+por+aí" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
